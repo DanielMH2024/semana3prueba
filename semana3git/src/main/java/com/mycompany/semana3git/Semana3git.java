@@ -11,6 +11,7 @@ package com.mycompany.semana3git;
 public class Semana3git {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("hola mundo");
+        System.out.println("Hola desde java");
     }
 }

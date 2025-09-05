@@ -10,4 +10,6 @@ package com.mycompany.semana3git;
  */
 public class Persona {
     
+    private String nombre;
+    
 }
